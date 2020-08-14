@@ -21,13 +21,11 @@ function render () {
 function handleSubClick () {
   inputValue = parseInt(input.value, 10);
     runningTotal -= inputValue;
-    inputValue = "";
     render();
 }
 function handleAddClick () {
   inputValue = parseInt(input.value, 10);
     runningTotal += inputValue;
-    inputValue = "";
     render()
 }
 
