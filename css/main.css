@@ -10,9 +10,6 @@ main {
  height: 45px; 
  width: 75px; 
  position:relative;
- margin: 70%;
- align-items: center;
- top: -10px;
  background-color: lightgray;
  color: white;
  border: solid gray;
@@ -23,8 +20,6 @@ main {
  width: 75px;
  height: 45px;
  position:relative;
-  margin: 50%;
- bottom: 1000px;
  align-items: center;
  border: solid gray;
  text-align: center;
@@ -35,8 +30,6 @@ main {
  height: 45px; 
  width: 75px; 
  position:relative;
- margin: 30%;
- bottom: 1600px;
  align-items: center;
  background-color: lightgray;
  color: white;
@@ -50,10 +43,8 @@ main {
  position:relative;
  font-family: 'Franklin Gothic Medium';
  font-size: 50px;
- margin: 50%;
 }
 button:hover {
  background-color: white;
  color: gray
 }
-
