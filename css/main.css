@@ -7,10 +7,7 @@ main {
 .addButton {
     height: 45px; 
     width: 75px; 
-    margin: 225px 50px; 
     position:relative;
-    top:20%; 
-    left:50%;
     background-color: lightgray;
     color: white;
     border: solid gray;
