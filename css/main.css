@@ -4,6 +4,8 @@ main {
     justify-content: center;  /* centers items horizontally in row layout */
     align-items: center;  /* centers vertically in row layout */
     /* flex-direction: column; will set layout to column instead of row */
+    top: 50%;
+    left: 50%;
 
 }
 .addButton {
